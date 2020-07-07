@@ -28,7 +28,6 @@ for l2 in range(0,len(name2)):
  if name2[l2] in name1:
   list1.append(name2[l2])
   
-
 length0 = length-len(list1)
 
 def length(num,fate):
